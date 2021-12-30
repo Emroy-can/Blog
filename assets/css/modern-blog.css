@@ -246,8 +246,8 @@ h1 {
   	text-align: center;
   	margin: 0;
   	padding: 20px 0;
-  	color: #fa160c;
-  	text-shadow: 5px 5px 5px #fead32;
+  	color: #0f0d0d;
+  	text-shadow: 5px 5px 5px #32f0fe;
 }
 
 h2{
@@ -256,10 +256,18 @@ h2{
 	font-family: 华文彩云, serif;
 	margin: 0;
 	padding: 20px 0;
-	color: #0909fe;
-	text-shadow: 3px 3px 1px #0fae1f;
+	color: #7a138f;
+	text-shadow: 3px 3px 1px #ddec05;
 }
 
+li {
+  	font-size: 18px;
+  	line-height: 2;
+  	letter-spacing: 1px;
+	color: WindowText;
+	font-family: 华文楷体, serif;
+	text-align:left;
+}
 
 a:hover,
 a:focus {
