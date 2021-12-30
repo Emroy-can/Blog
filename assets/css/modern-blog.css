@@ -241,6 +241,25 @@ a {
 	color: #de6551;
 	outline: none;
 }
+h1 {
+  	font-size: 60px;
+  	text-align: center;
+  	margin: 0;
+  	padding: 20px 0;
+  	color: #fa160c;
+  	text-shadow: 5px 5px 5px #fead32;
+}
+
+h2{
+	font-size: 30px;
+	text-align: -moz-left;
+	font-family: 华文彩云, serif;
+	margin: 0;
+	padding: 20px 0;
+	color: #0909fe;
+	text-shadow: 3px 3px 1px #0fae1f;
+}
+
 
 a:hover,
 a:focus {
